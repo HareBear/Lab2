@@ -12,6 +12,9 @@ Changelog must be updated for any changes.
 ## Changelog
 add new entries directly below this, so newest changes come first.
 
+## Added tooltips to actors
+Added tooltips to homepage actors
+
 ## Added new actor
 Added new Cat photo and quote
 
