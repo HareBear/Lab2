@@ -12,6 +12,9 @@ Changelog must be updated for any changes.
 ## Changelog
 add new entries directly below this, so newest changes come first.
 
+## Added Actor Pages
+Added actor pages, however the pages still need more work (ie. quotes)
+
 ## Added tooltips to actors
 Added tooltips to homepage actors
 
